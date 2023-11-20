@@ -12,6 +12,7 @@ def subtract(x: int, y: int) -> int:
     """Subtract two numbers"""
     return x - y
 
+
 def multiply(x: int, y: int) -> int:
     """Multiply two numbers together"""
     return x * y
